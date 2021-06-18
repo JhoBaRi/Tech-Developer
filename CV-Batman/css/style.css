@@ -1,0 +1,19 @@
+.Batman{
+    text-align: center;
+    background-color: #E5E5E5;
+    font-family: 'Times New Roman', Times, serif;
+}
+.CV{
+    text-align: center;
+    background-color: #C4C4C4;
+    color: #005677;
+}
+#Personal{
+    background-color: #C4C4C4;
+    color: #005677;
+}
+.Base{
+    color: #FFFFFF;
+    background-color: #005677;
+    text-align: center;
+}
